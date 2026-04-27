@@ -1,4 +1,4 @@
-# คำตอบเชิงร้อยแก้วสำหรับการวิเคราะห์ข้อมูลโครงการ AI Smart Re-Triage Assistant
+## โครงการ AI Smart Re-Triage Assistant
 
 ## 1) แนวคิดในการจัดการข้อมูล Data Cleansing
 
