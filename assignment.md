@@ -84,7 +84,7 @@
 - **scikit-learn.neighbors**: ใช้สำหรับสร้างโมเดล K-NN ด้วย `KNeighborsClassifier()`
 - **scikit-learn.metrics**: ใช้สำหรับประเมินผลโมเดล เช่น `accuracy_score()`, `classification_report()` และ `confusion_matrix()`
 
-ตัวอย่างไฟล์สำหรับการทำ K-NN คือ **03.ipynb**
+ตัวอย่างไฟล์สำหรับการทำ K-NN คือ **[03.ipynb](https://colab.research.google.com/drive/14DPh6uHioWuTYCqhVieQWl2JPH26NvTP?usp=sharing)**
 
 ## 4) แนวทางการประยุกต์ใช้ K-means ในโครงการและการทดลองเบื้องต้น
 
