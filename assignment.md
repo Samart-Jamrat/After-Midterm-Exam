@@ -16,6 +16,8 @@
 - **delta_bp**: ค่าการเปลี่ยนแปลงของความดันโลหิตจากครั้งก่อน
 - **label**: ป้ายกำกับผลลัพธ์ของผู้ป่วยในเชิงการตอบสนอง ได้แก่ `continue_waiting`, `observe_closely` และ `retriage_now` ใช้เป็นตัวแปรเป้าหมายในการวิเคราะห์แบบ classification
 
+ชุดข้อมูลตัวอย่าง https://github.com/Samart-Jamrat/Midterm-Exam/tree/main/sample_data
+
 ## 1) แนวคิดในการจัดการข้อมูล Data Cleansing
 
 ประเด็นสำคัญในการทำ data cleansing สำหรับชุดข้อมูลนี้ ได้แก่
