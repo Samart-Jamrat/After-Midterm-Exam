@@ -107,4 +107,4 @@
 - **scikit-learn.metrics**: ใช้สำหรับประเมินผลเบื้องต้นของการจัดกลุ่ม เช่น `silhouette_score()`
 - **numpy**: ใช้ช่วยจัดการข้อมูลเชิงตัวเลขและสนับสนุนการแสดงผล centroid หรือผลลัพธ์ของ cluster
 
-ตัวอย่างไฟล์สำหรับการทำ K-means คือ **04.ipynb**
+ตัวอย่างไฟล์สำหรับการทำ K-means คือ **[04.ipynb](https://colab.research.google.com/drive/1MqwhwLtC8CXCGblFwOtJdzrcmXEr_B0q?usp=sharing)**
