@@ -35,7 +35,7 @@
 - **pandas describe() / quantile()**: ใช้ตรวจสอบการกระจายของข้อมูลและช่วยหา outlier เบื้องต้น เช่น วิธี IQR
 - **เงื่อนไขเชิงตรรกะใน Python**: ใช้ตรวจสอบช่วงค่าที่สมเหตุสมผลของตัวแปร เช่น SpO2, wait_minutes, temperature และ label
 
-ตัวอย่างไฟล์สำหรับการทำ data cleansing คือ **01.ipynb**
+ตัวอย่างไฟล์สำหรับการทำ data cleansing คือ **[01.ipynb](https://colab.research.google.com/drive/19yxR1LsjVfKe9kn5eqHlMObcJSUyptF5?usp=sharing)**
 
 ## 2) การใช้ Linear Regression ในการวิเคราะห์ข้อมูล
 
